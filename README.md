@@ -11,8 +11,12 @@ Successfully guess the movie title before running out of lives to claim victory.
 
 ### Features:
 
+<p>
 🎯 Simple and intuitive CLI interface.
+</p>
+<p>
 💡 Feedback on correct and incorrect guesses.
+</p>
 
 ### How to Run:
 Open your terminal, Navigate to the directory containing the game script.
