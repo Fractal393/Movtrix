@@ -9,8 +9,10 @@ Your mission, should you choose to accept it, is to guess the movie by entering 
 You have three lives to get it right – each incorrect guess brings you one step closer to the edge!
 Successfully guess the movie title before running out of lives to claim victory.
 
-### Features:
+### Technology:
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
+### Features:
 <p>
 🎯 Simple and intuitive CLI interface.
 </p>
